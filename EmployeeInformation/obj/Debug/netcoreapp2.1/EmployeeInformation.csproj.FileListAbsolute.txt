@@ -1,0 +1,15 @@
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\EmployeeInformation.deps.json
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\EmployeeInformation.runtimeconfig.json
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\EmployeeInformation.runtimeconfig.dev.json
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\EmployeeInformation.dll
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.RazorAssemblyInfo.cache
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.RazorAssemblyInfo.cs
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.AssemblyInfoInputs.cache
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.AssemblyInfo.cs
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.RazorTargetAssemblyInfo.cache
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\EmployeeInformation.pdb
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.dll
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.pdb
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\netcoreapp2.1\EmployeeInformation.csprojAssemblyReference.cache
+C:\Users\805901\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\netcoreapp2.1\appsetting.json
